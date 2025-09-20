@@ -23,9 +23,7 @@
 🧏 [**Vaani**](#) – AI-enabled Sign Language & Speech Translation System  
 📊 [**Jarvis Dashboard**](#) – Pollution Awareness Dashboard with IoT + AI Chatbot  
 📈 [**Sales Data Processor**](#) – Python + SQLite Sales Data Management & Visualization  
-🛒 [**PyShop**](#) – Django-based E-commerce Platform  
-
-*(🔗 Replace `#` with your GitHub/live project links)*  
+🛒 [**PyShop**](#) – Django-based E-commerce Platform    
 
 ---
 
