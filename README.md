@@ -1,45 +1,124 @@
-# Hi, I'm Raj Tiwari 👋  
+# Hi, I'm Raj Tiwari 👋
 
-🚀 **AI, Full Stack & Data Enthusiast | Certified Oracle Foundation Associate | Hackathon Builder**  
+🚀 **Full Stack Developer | AI & ML Enthusiast | Competitive Programmer | Hackathon Winner**
 
-🎓 CSE Student passionate about **AI, IoT, and building impactful solutions**.  
-💡 Hackathon enthusiast with projects in **AI, ML, and full-stack development**.  
-📊 Skilled in **Python, Data Analysis, MERN Stack, IoT (ESP-WROOM, MQ135)**.  
-
----
-
-## 🔥 Skills & Tech Stack  
-- **Languages:** C++, Python, JavaScript  
-- **Frameworks:** React, Node.js, Django  
-- **Databases:** SQL, SQLite, MongoDB  
-- **Tools:** Git, GitHub, Arduino IDE  
-- **Special Interests:** AI/ML, Data Analysis, IoT, Full Stack Development  
+🎓 CSE Student passionate about building impactful technology through **AI, Full Stack Development, AI/ML, and Problem Solving**.
+💡 I enjoy building scalable applications, solving DSA problems, and developing innovative hackathon projects.
 
 ---
 
-## 🛠 Featured Projects  
+# 🧠 About Me
 
-🌍 [**AirIQ**](#) – IoT-based Air Quality Monitoring with ESP-WROOM-32 & MQ135  
-🧏 [**Vaani**](#) – AI-enabled Sign Language & Speech Translation System  
-📊 [**Jarvis Dashboard**](#) – Pollution Awareness Dashboard with IoT + AI Chatbot  
-📈 [**Sales Data Processor**](#) – Python + SQLite Sales Data Management & Visualization  
-🛒 [**PyShop**](#) – Django-based E-commerce Platform    
+* 🏆 Winner — **HackWithUttarPradesh Hackathon**
+* 💻 Solved **250+ LeetCode Problems**
+* 🎖 Certified **Oracle Foundation Associate**
+* 📚 Participant — **Summer Analytics 2025 by IIT Guwahati**
+* ⚡ Passionate about:
 
----
-
-## 🏆 Achievements & Highlights  
-- 🎖 Certified **Oracle Foundation Associate**  
-- 💡 Built multiple hackathon-ready projects (AI, IoT, Full Stack)  
-- 📚 Participant @ **Summer Analytics 2025 – IIT Guwahati**  
-- 💻 Hackathons: Hackhaven 2.0, Designathon 2025, preparing for **SIH 2025**  
+  * Full Stack Development
+  * Artificial Intelligence & Machine Learning
+  * Competitive Programming
+  * Scalable Backend Systems
 
 ---
 
-## 📫 Let’s Connect  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rajtiwari0202)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raj-tiwari-687b67284)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajtiwari16916@gmail.com)  
+# 🔥 Tech Stack
+
+## 👨‍💻 Languages
+
+* C++
+* Python
+* JavaScript
+* SQL
+
+## 🌐 Full Stack Development
+
+* MongoDB
+* Express.js
+* React.js
+* Node.js
+* Next.js
+* Django
+
+## 🛠 Tools & Technologies
+
+* Git & GitHub
+* REST APIs
+* SQLite
+* Arduino IDE
+* ESP-WROOM-32
+* MQ135 Sensor
+
+## 📚 Areas of Interest
+
+* Artificial Intelligence & Machine Learning
+* Data Analysis & Visualization
+* IoT Systems
+* Backend Engineering
+* Competitive Programming
 
 ---
 
-⭐️ *“Passionate about solving problems, building impactful tech, and learning every day.”*  
+# 🚀 Featured Projects
+
+## 🛒 PyShop Ecommerce
+
+Full-stack Django E-commerce platform with authentication, product management, cart system, and deployment.
+
+🔗 **GitHub:** https://github.com/Rajtiwari0202/PyShop-Ecommerce
+🌐 **Live Demo:** https://pyshop-ecommerce-r9kl.onrender.com/
+
+---
+
+## 🚨 ResQ-Her
+
+Women safety and emergency assistance platform focused on accessibility, quick response, and safety solutions.
+
+🔗 **GitHub:** https://github.com/Rajtiwari0202/ResQ-Her
+
+---
+
+## 🌊 Blue Carbon Credit Registry System
+
+Sustainability-focused platform for managing and tracking blue carbon credits and environmental impact.
+
+🔗 **GitHub:** https://github.com/Rajtiwari0202/Blue-Carbon-Credit-Registry-System
+
+---
+
+## 🛍 Amazon Clone
+
+Responsive Amazon-inspired frontend clone built using modern web technologies.
+
+🔗 **GitHub:** https://github.com/Rajtiwari0202/Amazon-Clone
+🌐 **Live Demo:** https://rajtiwari0202.github.io/Amazon-Clone/
+
+---
+
+## 🌾 AgriConnect Platform
+
+Agriculture-focused platform connecting farmers, services, and digital solutions.
+
+🔗 **GitHub:** https://github.com/Rajtiwari0202/AgriConnect-Platform
+
+---
+
+# 🏅 Competitive Programming
+
+* 🔹 Solved **250+ DSA Problems**
+* 🔹 Active on LeetCode & Competitive Programming Platforms
+* 🔹 Focused on mastering Algorithms, CP & Interview Preparation
+
+---
+
+# 📫 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Rajtiwari0202)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/raj-tiwari-687b67284)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:rajtiwari16916@gmail.com)
+
+---
+
+⭐ *"Building impactful technology, solving hard problems, and learning relentlessly."*
