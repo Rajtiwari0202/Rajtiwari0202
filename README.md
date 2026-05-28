@@ -10,7 +10,7 @@
 # 🧠 About Me
 
 * 🏆 Winner — **HackWithUttarPradesh Hackathon**
-* 💻 Solved **250+ LeetCode Problems**
+* 💻 Solved **350+ LeetCode Problems**
 * 🎖 Certified **Oracle Foundation Associate**
 * 📚 Participant — **Summer Analytics 2025 by IIT Guwahati**
 * ⚡ Passionate about:
