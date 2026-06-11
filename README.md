@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:14B8A6&height=220&section=header&text=Raj%20Tiwari&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Competitive%20Programmer&descAlignY=56&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:14B8A6&height=220&section=header&text=Raj%20Tiwari&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%7C%20Full%20Stack%20%26%20AI%20Systems%20%7C%20Competitive%20Programmer&descAlignY=56&descSize=18" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Hackathon+Winner;350%2B+LeetCode+Problems+Solved" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Software+Engineer;Full+Stack+Systems;AI+Application+Development;350%2B+LeetCode+Problems+Solved" alt="Typing SVG" />
 </a>
 
 <br />
@@ -31,13 +31,13 @@
 
 ## About
 
-I'm a CSE student focused on full stack development, AI/ML, and competitive programming. I enjoy building practical products, working on backend systems, and improving through DSA and real project work.
+I engineer full stack applications, backend systems, and AI-enabled product workflows. I care about clean implementation, product judgment, and solving hard problems through code.
 
 - Winner of HackWithUttarPradesh Hackathon
 - Solved 350+ LeetCode problems
 - Oracle Foundation Associate certified
 - Summer Analytics 2025 participant by IIT Guwahati
-- Interested in AI/ML, backend engineering, data analysis, IoT, and scalable web applications
+- B.Tech CSE; building across full stack engineering, AI/ML, data analysis, IoT, and scalable web applications
 
 ---
 
@@ -89,7 +89,7 @@ I'm a CSE student focused on full stack development, AI/ML, and competitive prog
     </td>
     <td width="50%">
       <h3>The Great GPTini</h3>
-      <p>A JavaScript project focused on building an assistant-style AI interface and experimenting with practical AI workflows.</p>
+      <p>A JavaScript AI assistant interface with prompt handling, chat flow, and product-focused interaction design.</p>
       <p>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827" />
         <img src="https://img.shields.io/badge/AI-14B8A6?style=flat-square" />
@@ -111,7 +111,6 @@ I'm a CSE student focused on full stack development, AI/ML, and competitive prog
     </td>
     <td width="50%">
       <h3>ResQ-Her</h3>
-      <img src="./assets/resq-her/01-dashboard.png" width="100%" alt="ResQ-Her dashboard" />
       <p>A women safety app with emergency assistance flows, safety resources, and an accessible interface.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -124,7 +123,6 @@ I'm a CSE student focused on full stack development, AI/ML, and competitive prog
   <tr>
     <td width="50%">
       <h3>PyShop Ecommerce</h3>
-      <img src="./assets/pyshop/01-storefront.png" width="100%" alt="PyShop storefront" />
       <p>A Django e-commerce platform with product browsing, cart management, checkout flow, authentication, and deployment.</p>
       <p>
         <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
@@ -158,7 +156,6 @@ I'm a CSE student focused on full stack development, AI/ML, and competitive prog
     </td>
     <td width="50%">
       <h3>PolicyGuard</h3>
-      <img src="./assets/policyguard/01-dashboard.png" width="100%" alt="PolicyGuard dashboard" />
       <p>A local LLM-powered policy gap analyzer for reviewing documents, tracking policy gaps, and generating improved policy drafts.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -174,39 +171,70 @@ I'm a CSE student focused on full stack development, AI/ML, and competitive prog
 
 ## Project Screenshots
 
-<details open>
-  <summary><b>PyShop Ecommerce</b></summary>
+<table>
+  <tr>
+    <td width="33%">
+      <img src="./assets/pyshop/01-storefront.png" width="100%" alt="PyShop storefront" />
+      <p align="center"><b>PyShop Ecommerce</b></p>
+    </td>
+    <td width="33%">
+      <img src="./assets/resq-her/01-dashboard.png" width="100%" alt="ResQ-Her dashboard" />
+      <p align="center"><b>ResQ-Her</b></p>
+    </td>
+    <td width="33%">
+      <img src="./assets/policyguard/01-dashboard.png" width="100%" alt="PolicyGuard dashboard" />
+      <p align="center"><b>PolicyGuard</b></p>
+    </td>
+  </tr>
+</table>
+
+<details>
+  <summary><b>PyShop Ecommerce Screens</b></summary>
   <br />
-  <p align="center">
-    <img src="./assets/pyshop/01-storefront.png" width="48%" alt="PyShop storefront" />
-    <img src="./assets/pyshop/02-product-detail.png" width="48%" alt="PyShop product detail" />
-    <img src="./assets/pyshop/03-login.png" width="48%" alt="PyShop login" />
-    <img src="./assets/pyshop/04-cart.png" width="48%" alt="PyShop cart" />
-    <img src="./assets/pyshop/05-checkout.png" width="48%" alt="PyShop checkout" />
-    <img src="./assets/pyshop/06-orders.png" width="48%" alt="PyShop orders" />
-  </p>
+  <table>
+    <tr>
+      <td width="50%"><img src="./assets/pyshop/01-storefront.png" width="100%" alt="PyShop storefront" /></td>
+      <td width="50%"><img src="./assets/pyshop/02-product-detail.png" width="100%" alt="PyShop product detail" /></td>
+    </tr>
+    <tr>
+      <td width="50%"><img src="./assets/pyshop/03-login.png" width="100%" alt="PyShop login" /></td>
+      <td width="50%"><img src="./assets/pyshop/04-cart.png" width="100%" alt="PyShop cart" /></td>
+    </tr>
+    <tr>
+      <td width="50%"><img src="./assets/pyshop/05-checkout.png" width="100%" alt="PyShop checkout" /></td>
+      <td width="50%"><img src="./assets/pyshop/06-orders.png" width="100%" alt="PyShop orders" /></td>
+    </tr>
+  </table>
 </details>
 
 <details>
-  <summary><b>ResQ-Her</b></summary>
+  <summary><b>ResQ-Her Screens</b></summary>
   <br />
-  <p align="center">
-    <img src="./assets/resq-her/01-dashboard.png" width="48%" alt="ResQ-Her dashboard" />
-    <img src="./assets/resq-her/02-sos.png" width="48%" alt="ResQ-Her SOS screen" />
-    <img src="./assets/resq-her/03-law-bot.png" width="48%" alt="ResQ-Her law bot" />
-    <img src="./assets/resq-her/04-therapy-bot.png" width="48%" alt="ResQ-Her therapy bot" />
-  </p>
+  <table>
+    <tr>
+      <td width="50%"><img src="./assets/resq-her/01-dashboard.png" width="100%" alt="ResQ-Her dashboard" /></td>
+      <td width="50%"><img src="./assets/resq-her/02-sos.png" width="100%" alt="ResQ-Her SOS screen" /></td>
+    </tr>
+    <tr>
+      <td width="50%"><img src="./assets/resq-her/03-law-bot.png" width="100%" alt="ResQ-Her law bot" /></td>
+      <td width="50%"><img src="./assets/resq-her/04-therapy-bot.png" width="100%" alt="ResQ-Her therapy bot" /></td>
+    </tr>
+  </table>
 </details>
 
 <details>
-  <summary><b>PolicyGuard</b></summary>
+  <summary><b>PolicyGuard Screens</b></summary>
   <br />
-  <p align="center">
-    <img src="./assets/policyguard/01-dashboard.png" width="48%" alt="PolicyGuard dashboard" />
-    <img src="./assets/policyguard/02-gap-register.png" width="48%" alt="PolicyGuard gap register" />
-    <img src="./assets/policyguard/03-exports.png" width="48%" alt="PolicyGuard exports" />
-    <img src="./assets/policyguard/04-improved-policy.png" width="48%" alt="PolicyGuard improved policy" />
-  </p>
+  <table>
+    <tr>
+      <td width="50%"><img src="./assets/policyguard/01-dashboard.png" width="100%" alt="PolicyGuard dashboard" /></td>
+      <td width="50%"><img src="./assets/policyguard/02-gap-register.png" width="100%" alt="PolicyGuard gap register" /></td>
+    </tr>
+    <tr>
+      <td width="50%"><img src="./assets/policyguard/03-exports.png" width="100%" alt="PolicyGuard exports" /></td>
+      <td width="50%"><img src="./assets/policyguard/04-improved-policy.png" width="100%" alt="PolicyGuard improved policy" /></td>
+    </tr>
+  </table>
 </details>
 
 ---
