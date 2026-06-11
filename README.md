@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:14B8A6&height=220&section=header&text=Raj%20Tiwari&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%7C%20Full%20Stack%20%26%20AI%20Systems%20%7C%20Competitive%20Programmer&descAlignY=56&descSize=18" width="100%" />
+<h1>Raj Tiwari</h1>
+<h3>Software Engineer | Full Stack & AI Systems | Competitive Programmer</h3>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Software+Engineer;Full+Stack+Systems;AI+Application+Development;350%2B+LeetCode+Problems+Solved" alt="Typing SVG" />
@@ -315,7 +316,5 @@ Core focus:
 <div align="center">
 
 ### Building useful software, one project at a time.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14B8A6,50:2563EB,100:0F172A&height=120&section=footer" width="100%" />
 
 </div>
