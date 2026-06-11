@@ -1,10 +1,9 @@
 <div align="center">
 
-<!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:14B8A6&height=220&section=header&text=Raj%20Tiwari&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Competitive%20Programmer&descAlignY=56&descSize=18" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+scalable+apps+with+MERN+%26+AI;Hackathon+Winner+%7C+350%2B+LeetCode+Problems;Full+Stack+Developer+%7C+Backend+Learner;Turning+ideas+into+real+products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Hackathon+Winner;350%2B+LeetCode+Problems+Solved" alt="Typing SVG" />
 </a>
 
 <br />
@@ -18,9 +17,6 @@
 <a href="mailto:rajtiwari16916@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://github.com/Rajtiwari0202/my_portfolio">
-  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
 
 <br />
 <br />
@@ -33,41 +29,19 @@
 
 ---
 
-## About Me
+## About
 
-```yaml
-name: Raj Tiwari
-role: Full Stack Developer & AI/ML Enthusiast
-education: B.Tech CSE
-location: India
+I'm a CSE student focused on full stack development, AI/ML, and competitive programming. I enjoy building practical products, working on backend systems, and improving through DSA and real project work.
 
-currently_building:
-  - AI-powered developer tools
-  - Full stack MERN applications
-  - Scalable backend systems
-  - Hackathon-grade product prototypes
-
-strongest_signals:
-  - HackWithUttarPradesh Hackathon Winner
-  - 350+ LeetCode problems solved
-  - Oracle Foundation Associate Certified
-  - Summer Analytics 2025 participant by IIT Guwahati
-
-interests:
-  - Artificial Intelligence & Machine Learning
-  - Full Stack Development
-  - Competitive Programming
-  - Data Analysis & Visualization
-  - IoT and smart systems
-
-philosophy: "Build. Learn. Improve. Repeat."
-```
-
-I like building products that are practical, fast, and useful. My work sits at the intersection of full stack engineering, AI-enabled systems, competitive programming, and hackathon-style product execution.
+- Winner of HackWithUttarPradesh Hackathon
+- Solved 350+ LeetCode problems
+- Oracle Foundation Associate certified
+- Summer Analytics 2025 participant by IIT Guwahati
+- Interested in AI/ML, backend engineering, data analysis, IoT, and scalable web applications
 
 ---
 
-## Tech Arsenal
+## Tech Stack
 
 <div align="center">
 
@@ -86,20 +60,14 @@ I like building products that are practical, fast, and useful. My work sits at t
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### Backend & Databases
+### Backend, Database, Tools
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-111827?style=for-the-badge&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### Tools, AI & IoT
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-2563EB?style=for-the-badge)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP--WROOM--32-111827?style=for-the-badge)
-![MQ135](https://img.shields.io/badge/MQ135%20Sensor-14B8A6?style=for-the-badge)
 
 </div>
 
@@ -111,7 +79,7 @@ I like building products that are practical, fast, and useful. My work sits at t
   <tr>
     <td width="50%">
       <h3>AI Code Editor</h3>
-      <p>An AI-focused developer tool project built around modern TypeScript workflows and intelligent coding assistance.</p>
+      <p>A TypeScript-based developer tool exploring code editing workflows and AI-assisted programming features.</p>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/AI-111827?style=flat-square" />
@@ -121,7 +89,7 @@ I like building products that are practical, fast, and useful. My work sits at t
     </td>
     <td width="50%">
       <h3>The Great GPTini</h3>
-      <p>A JavaScript AI project exploring assistant-style product experiences and practical AI application building.</p>
+      <p>A JavaScript project focused on building an assistant-style AI interface and experimenting with practical AI workflows.</p>
       <p>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827" />
         <img src="https://img.shields.io/badge/AI-14B8A6?style=flat-square" />
@@ -133,18 +101,18 @@ I like building products that are practical, fast, and useful. My work sits at t
   <tr>
     <td width="50%">
       <h3>AgriConnect Platform</h3>
-      <p>A farmer-first platform connecting landowners and farmers with subscriptions, escrow payments, government scheme integration, and affordability metrics.</p>
+      <p>An agriculture platform for connecting farmers, landowners, and digital services through a modern web interface.</p>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/AgriTech-16A34A?style=flat-square" />
-        <img src="https://img.shields.io/badge/Product%20Thinking-F59E0B?style=flat-square" />
+        <img src="https://img.shields.io/badge/Web%20App-F59E0B?style=flat-square" />
       </p>
       <a href="https://github.com/Rajtiwari0202/AgriConnect-Platform">Repository</a>
     </td>
     <td width="50%">
       <h3>ResQ-Her</h3>
       <img src="./assets/resq-her/01-dashboard.png" width="100%" alt="ResQ-Her dashboard" />
-      <p>A rapid-response women safety app that shares live location with trusted contacts and supports emergency assistance workflows.</p>
+      <p>A women safety app with emergency assistance flows, safety resources, and an accessible interface.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/Safety%20Tech-E11D48?style=flat-square" />
@@ -163,12 +131,12 @@ I like building products that are practical, fast, and useful. My work sits at t
         <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
         <img src="https://img.shields.io/badge/Ecommerce-2563EB?style=flat-square" />
       </p>
-      <a href="https://github.com/Rajtiwari0202/PyShop-Ecommerce">Repository</a> •
+      <a href="https://github.com/Rajtiwari0202/PyShop-Ecommerce">Repository</a> &bull;
       <a href="https://pyshop-ecommerce-r9kl.onrender.com/">Live Demo</a>
     </td>
     <td width="50%">
       <h3>Vestora Trading Platform</h3>
-      <p>A scalable trading dashboard featuring real-time market data, portfolio analytics, authentication, watchlists, and advanced visualizations.</p>
+      <p>A trading dashboard project with market views, portfolio sections, watchlists, and data-focused UI components.</p>
       <p>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827" />
         <img src="https://img.shields.io/badge/FinTech-0F172A?style=flat-square" />
@@ -191,7 +159,7 @@ I like building products that are practical, fast, and useful. My work sits at t
     <td width="50%">
       <h3>PolicyGuard</h3>
       <img src="./assets/policyguard/01-dashboard.png" width="100%" alt="PolicyGuard dashboard" />
-      <p>A local LLM-powered policy gap analyzer focused on document intelligence, policy review, and AI-assisted compliance workflows.</p>
+      <p>A local LLM-powered policy gap analyzer for reviewing documents, tracking policy gaps, and generating improved policy drafts.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/Local%20LLM-8B5CF6?style=flat-square" />
@@ -224,7 +192,7 @@ I like building products that are practical, fast, and useful. My work sits at t
   <br />
   <p align="center">
     <img src="./assets/resq-her/01-dashboard.png" width="48%" alt="ResQ-Her dashboard" />
-    <img src="./assets/resq-her/02-sos.png" width="48%" alt="ResQ-Her SOS" />
+    <img src="./assets/resq-her/02-sos.png" width="48%" alt="ResQ-Her SOS screen" />
     <img src="./assets/resq-her/03-law-bot.png" width="48%" alt="ResQ-Her law bot" />
     <img src="./assets/resq-her/04-therapy-bot.png" width="48%" alt="ResQ-Her therapy bot" />
   </p>
@@ -279,7 +247,6 @@ Core focus:
 - Data Structures and Algorithms
 - Competitive Programming
 - Interview Preparation
-- Clean problem-solving patterns
 ```
 
 ---
@@ -303,35 +270,7 @@ Core focus:
     <td>DSA</td>
     <td><b>350+ LeetCode problems solved</b></td>
   </tr>
-  <tr>
-    <td>GitHub</td>
-    <td><b>Developer Program Member and Pull Shark achievement</b></td>
-  </tr>
 </table>
-
----
-
-## Current Focus
-
-```yaml
-learning:
-  - System design fundamentals
-  - Advanced backend engineering
-  - AI application architecture
-  - Production-ready full stack development
-
-building:
-  - AI developer tools
-  - MERN projects
-  - Product-focused hackathon builds
-  - Portfolio-ready applications
-
-next_goals:
-  - Crack a strong software engineering internship
-  - Build and ship polished SaaS-style projects
-  - Contribute meaningfully to open source
-  - Keep improving DSA and competitive programming consistency
-```
 
 ---
 
@@ -345,22 +284,9 @@ next_goals:
 
 ---
 
-## Recommended Pinned Repositories
-
-These six give the strongest first impression:
-
-1. [AI Code Editor](https://github.com/Rajtiwari0202/ai-code-editor)
-2. [The Great GPTini](https://github.com/Rajtiwari0202/The-Great-GPTini)
-3. [AgriConnect Platform](https://github.com/Rajtiwari0202/AgriConnect-Platform)
-4. [ResQ-Her](https://github.com/Rajtiwari0202/ResQ-Her)
-5. [PyShop Ecommerce](https://github.com/Rajtiwari0202/PyShop-Ecommerce)
-6. [Vestora Trading Platform](https://github.com/Rajtiwari0202/vestora-trading-platform)
-
----
-
 <div align="center">
 
-### Let's build something useful, scalable, and a little bit brilliant.
+### Building useful software, one project at a time.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14B8A6,50:2563EB,100:0F172A&height=120&section=footer" width="100%" />
 
