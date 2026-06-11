@@ -1,0 +1,30 @@
+<svg width="1200" height="180" viewBox="0 0 1200 180" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Raj Tiwari profile footer</title>
+  <desc id="desc">A dark blue and teal footer banner for Raj Tiwari's GitHub profile.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="180" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#020617"/>
+      <stop offset="0.5" stop-color="#0B2B63"/>
+      <stop offset="1" stop-color="#0F766E"/>
+    </linearGradient>
+    <linearGradient id="line" x1="180" y1="85" x2="1020" y2="85" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#67E8F9" stop-opacity="0.85"/>
+      <stop offset="1" stop-color="#2DD4BF" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(600 138) scale(520 120)">
+      <stop stop-color="#38BDF8" stop-opacity="0.32"/>
+      <stop offset="1" stop-color="#38BDF8" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="180" fill="url(#bg)"/>
+  <path d="M0 50C132 80 230 85 352 68C520 45 650 20 828 58C976 90 1088 98 1200 70V0H0V50Z" fill="#020617" fill-opacity="0.38"/>
+  <rect width="1200" height="180" fill="url(#glow)"/>
+  <path d="M180 88H1020" stroke="url(#line)" stroke-width="2"/>
+  <circle cx="300" cy="88" r="4" fill="#7DD3FC"/>
+  <circle cx="600" cy="88" r="4" fill="#CCFBF1"/>
+  <circle cx="900" cy="88" r="4" fill="#5EEAD4"/>
+  <text x="600" y="128" text-anchor="middle" fill="#E0F2FE" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="26" font-weight="700">
+    Engineering useful software, one system at a time.
+  </text>
+</svg>

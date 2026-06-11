@@ -2,10 +2,11 @@
 
 <img src="./assets/profile/banner.svg" width="100%" alt="Raj Tiwari - Software Engineer | Full Stack & AI Systems | Competitive Programmer" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Software+Engineer;Full+Stack+Systems;AI+Application+Development;350%2B+LeetCode+Problems+Solved" alt="Typing SVG" />
-</a>
+<br />
 
+<b>Full stack engineering, AI application development, backend systems, and competitive programming.</b>
+
+<br />
 <br />
 
 <a href="https://github.com/Rajtiwari0202">
@@ -38,6 +39,27 @@ I engineer full stack applications, backend systems, and AI-enabled product work
 - Oracle Foundation Associate certified
 - Summer Analytics 2025 participant by IIT Guwahati
 - B.Tech CSE; building across full stack engineering, AI/ML, data analysis, IoT, and scalable web applications
+
+---
+
+## Engineering Focus
+
+<table>
+  <tr>
+    <td width="33%">
+      <h3>Full Stack Systems</h3>
+      <p>Frontend interfaces, backend APIs, authentication flows, dashboards, and database-backed product features.</p>
+    </td>
+    <td width="33%">
+      <h3>AI Applications</h3>
+      <p>Assistant interfaces, local LLM workflows, document intelligence, and AI-powered developer tools.</p>
+    </td>
+    <td width="33%">
+      <h3>Problem Solving</h3>
+      <p>350+ LeetCode problems, DSA practice, competitive programming, and interview-oriented algorithm work.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -239,6 +261,19 @@ I engineer full stack applications, backend systems, and AI-enabled product work
 
 ---
 
+## Highlights
+
+<table>
+  <tr>
+    <td width="25%" align="center"><b>350+</b><br />LeetCode Problems</td>
+    <td width="25%" align="center"><b>Winner</b><br />HackWithUttarPradesh</td>
+    <td width="25%" align="center"><b>Oracle</b><br />Foundation Associate</td>
+    <td width="25%" align="center"><b>IIT Guwahati</b><br />Summer Analytics 2025</td>
+  </tr>
+</table>
+
+---
+
 ## GitHub Analytics
 
 <div align="center">
@@ -314,6 +349,6 @@ Core focus:
 
 <div align="center">
 
-### Building useful software, one project at a time.
+<img src="./assets/profile/footer.svg" width="100%" alt="Engineering useful software, one system at a time." />
 
 </div>
