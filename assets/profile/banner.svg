@@ -1,0 +1,64 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Raj Tiwari profile banner</title>
+  <desc id="desc">A dark blue gradient software engineer profile banner for Raj Tiwari.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#020617"/>
+      <stop offset="0.45" stop-color="#0F2A5F"/>
+      <stop offset="1" stop-color="#0F766E"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(260 54) rotate(40) scale(360 190)">
+      <stop stop-color="#38BDF8" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#38BDF8" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1000 250) rotate(145) scale(420 210)">
+      <stop stop-color="#2DD4BF" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#2DD4BF" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="wave" x1="0" y1="220" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0EA5E9" stop-opacity="0.2"/>
+      <stop offset="0.5" stop-color="#2563EB" stop-opacity="0.24"/>
+      <stop offset="1" stop-color="#14B8A6" stop-opacity="0.22"/>
+    </linearGradient>
+    <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#000000" flood-opacity="0.25"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="320" rx="0" fill="url(#bg)"/>
+  <rect width="1200" height="320" fill="url(#glowA)"/>
+  <rect width="1200" height="320" fill="url(#glowB)"/>
+
+  <g opacity="0.22">
+    <path d="M80 70H236" stroke="#E0F2FE" stroke-width="1"/>
+    <path d="M964 92H1120" stroke="#CCFBF1" stroke-width="1"/>
+    <path d="M910 188H1080" stroke="#E0F2FE" stroke-width="1"/>
+    <circle cx="256" cy="70" r="4" fill="#7DD3FC"/>
+    <circle cx="944" cy="92" r="4" fill="#5EEAD4"/>
+    <circle cx="1098" cy="188" r="4" fill="#7DD3FC"/>
+  </g>
+
+  <g opacity="0.18">
+    <path d="M142 214L202 154L262 214L322 154L382 214" stroke="#BFDBFE" stroke-width="2"/>
+    <path d="M812 78L852 118L892 78L932 118L972 78" stroke="#99F6E4" stroke-width="2"/>
+  </g>
+
+  <g filter="url(#softShadow)">
+    <text x="600" y="136" text-anchor="middle" fill="#FFFFFF" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="62" font-weight="800" letter-spacing="0">
+      Raj Tiwari
+    </text>
+    <text x="600" y="184" text-anchor="middle" fill="#D8F3FF" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="22" font-weight="600" letter-spacing="0">
+      Software Engineer | Full Stack &amp; AI Systems | Competitive Programmer
+    </text>
+  </g>
+
+  <g transform="translate(389 218)">
+    <rect width="422" height="42" rx="21" fill="#020617" fill-opacity="0.36" stroke="#7DD3FC" stroke-opacity="0.28"/>
+    <text x="211" y="27" text-anchor="middle" fill="#E0F2FE" font-family="Consolas, 'Fira Code', monospace" font-size="16" font-weight="600">
+      Full Stack • AI Workflows • DSA
+    </text>
+  </g>
+
+  <path d="M0 246C104 228 202 232 304 248C430 268 510 302 650 282C776 264 858 214 984 224C1062 230 1138 256 1200 280V320H0V246Z" fill="url(#wave)"/>
+  <path d="M0 276C144 246 270 258 420 284C558 308 662 296 788 260C934 218 1064 232 1200 270V320H0V276Z" fill="#020617" fill-opacity="0.24"/>
+</svg>
