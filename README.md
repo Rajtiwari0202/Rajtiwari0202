@@ -143,6 +143,7 @@ I like building products that are practical, fast, and useful. My work sits at t
     </td>
     <td width="50%">
       <h3>ResQ-Her</h3>
+      <img src="./assets/resq-her/01-dashboard.png" width="100%" alt="ResQ-Her dashboard" />
       <p>A rapid-response women safety app that shares live location with trusted contacts and supports emergency assistance workflows.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -155,6 +156,7 @@ I like building products that are practical, fast, and useful. My work sits at t
   <tr>
     <td width="50%">
       <h3>PyShop Ecommerce</h3>
+      <img src="./assets/pyshop/01-storefront.png" width="100%" alt="PyShop storefront" />
       <p>A Django e-commerce platform with product browsing, cart management, checkout flow, authentication, and deployment.</p>
       <p>
         <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
@@ -188,6 +190,7 @@ I like building products that are practical, fast, and useful. My work sits at t
     </td>
     <td width="50%">
       <h3>PolicyGuard</h3>
+      <img src="./assets/policyguard/01-dashboard.png" width="100%" alt="PolicyGuard dashboard" />
       <p>A local LLM-powered policy gap analyzer focused on document intelligence, policy review, and AI-assisted compliance workflows.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -198,6 +201,45 @@ I like building products that are practical, fast, and useful. My work sits at t
     </td>
   </tr>
 </table>
+
+---
+
+## Project Screenshots
+
+<details open>
+  <summary><b>PyShop Ecommerce</b></summary>
+  <br />
+  <p align="center">
+    <img src="./assets/pyshop/01-storefront.png" width="48%" alt="PyShop storefront" />
+    <img src="./assets/pyshop/02-product-detail.png" width="48%" alt="PyShop product detail" />
+    <img src="./assets/pyshop/03-login.png" width="48%" alt="PyShop login" />
+    <img src="./assets/pyshop/04-cart.png" width="48%" alt="PyShop cart" />
+    <img src="./assets/pyshop/05-checkout.png" width="48%" alt="PyShop checkout" />
+    <img src="./assets/pyshop/06-orders.png" width="48%" alt="PyShop orders" />
+  </p>
+</details>
+
+<details>
+  <summary><b>ResQ-Her</b></summary>
+  <br />
+  <p align="center">
+    <img src="./assets/resq-her/01-dashboard.png" width="48%" alt="ResQ-Her dashboard" />
+    <img src="./assets/resq-her/02-sos.png" width="48%" alt="ResQ-Her SOS" />
+    <img src="./assets/resq-her/03-law-bot.png" width="48%" alt="ResQ-Her law bot" />
+    <img src="./assets/resq-her/04-therapy-bot.png" width="48%" alt="ResQ-Her therapy bot" />
+  </p>
+</details>
+
+<details>
+  <summary><b>PolicyGuard</b></summary>
+  <br />
+  <p align="center">
+    <img src="./assets/policyguard/01-dashboard.png" width="48%" alt="PolicyGuard dashboard" />
+    <img src="./assets/policyguard/02-gap-register.png" width="48%" alt="PolicyGuard gap register" />
+    <img src="./assets/policyguard/03-exports.png" width="48%" alt="PolicyGuard exports" />
+    <img src="./assets/policyguard/04-improved-policy.png" width="48%" alt="PolicyGuard improved policy" />
+  </p>
+</details>
 
 ---
 
@@ -313,24 +355,6 @@ These six give the strongest first impression:
 4. [ResQ-Her](https://github.com/Rajtiwari0202/ResQ-Her)
 5. [PyShop Ecommerce](https://github.com/Rajtiwari0202/PyShop-Ecommerce)
 6. [Vestora Trading Platform](https://github.com/Rajtiwari0202/vestora-trading-platform)
-
----
-
-## Add Project Screenshots
-
-For an even stronger profile, add screenshots or GIF demos in an `assets` folder:
-
-```txt
-assets/
-  agriconnect-dashboard.png
-  pyshop-demo.gif
-  resqher-live-location.png
-  ai-code-editor.png
-  gptini-demo.gif
-  vestora-dashboard.png
-```
-
-Then place them inside the relevant project cards or sections once you have polished visuals.
 
 ---
 
