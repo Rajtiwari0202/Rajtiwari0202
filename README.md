@@ -38,6 +38,7 @@ I engineer full stack applications, backend systems, and AI-enabled product work
 - Solved 350+ LeetCode problems
 - Oracle Foundation Associate certified
 - Summer Analytics 2025 participant by IIT Guwahati
+- Recently shipped Forge Editor, a deployed browser-based AI code editor with OAuth, WebContainers, Monaco, persisted playgrounds, and server-side AI workflows
 - B.Tech CSE; building across full stack engineering, AI/ML, data analysis, IoT, and scalable web applications
 
 ---
@@ -100,13 +101,16 @@ I engineer full stack applications, backend systems, and AI-enabled product work
 <table>
   <tr>
     <td width="50%">
-      <h3>AI Code Editor</h3>
-      <p>A TypeScript-based developer tool exploring code editing workflows and AI-assisted programming features.</p>
+      <img src="./assets/forge-editor/01-landing.png" width="100%" alt="Forge Editor landing page" />
+      <h3>Forge Editor</h3>
+      <p>A deployed browser IDE with OAuth, Monaco editing, WebContainers terminal execution, live preview, persisted playgrounds, and server-side AI assistance.</p>
       <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/AI-111827?style=flat-square" />
-        <img src="https://img.shields.io/badge/Developer%20Tool-2563EB?style=flat-square" />
+        <img src="https://img.shields.io/badge/WebContainers-2563EB?style=flat-square" />
+        <img src="https://img.shields.io/badge/MIT-22C55E?style=flat-square" />
       </p>
+      <a href="https://aicodeeditor-sand.vercel.app">Live Demo</a> &bull;
       <a href="https://github.com/Rajtiwari0202/ai-code-editor">Repository</a>
     </td>
     <td width="50%">
@@ -196,6 +200,10 @@ I engineer full stack applications, backend systems, and AI-enabled product work
 <table>
   <tr>
     <td width="33%">
+      <img src="./assets/forge-editor/01-landing.png" width="100%" alt="Forge Editor landing page" />
+      <p align="center"><b>Forge Editor</b></p>
+    </td>
+    <td width="33%">
       <img src="./assets/pyshop/01-storefront.png" width="100%" alt="PyShop storefront" />
       <p align="center"><b>PyShop Ecommerce</b></p>
     </td>
@@ -203,12 +211,22 @@ I engineer full stack applications, backend systems, and AI-enabled product work
       <img src="./assets/resq-her/01-dashboard.png" width="100%" alt="ResQ-Her dashboard" />
       <p align="center"><b>ResQ-Her</b></p>
     </td>
-    <td width="33%">
-      <img src="./assets/policyguard/01-dashboard.png" width="100%" alt="PolicyGuard dashboard" />
-      <p align="center"><b>PolicyGuard</b></p>
-    </td>
   </tr>
 </table>
+
+<details>
+  <summary><b>Forge Editor Screens</b></summary>
+  <br />
+  <table>
+    <tr>
+      <td width="50%"><img src="./assets/forge-editor/01-landing.png" width="100%" alt="Forge Editor landing page" /></td>
+      <td width="50%"><img src="./assets/forge-editor/02-sign-in.png" width="100%" alt="Forge Editor sign-in page" /></td>
+    </tr>
+    <tr>
+      <td colspan="2"><img src="./assets/forge-editor/03-workspace.svg" width="100%" alt="Forge Editor workspace preview" /></td>
+    </tr>
+  </table>
+</details>
 
 <details>
   <summary><b>PyShop Ecommerce Screens</b></summary>
