@@ -34,8 +34,9 @@
 
 I engineer full stack applications, backend systems, and AI-enabled product workflows. I care about clean implementation, product judgment, and solving hard problems through code.
 
-- Winner of HackWithUttarPradesh Hackathon
-- Solved 450+ LeetCode problems
+- Winner of HackWithUttarPradesh Hackathon (Agentic AI SAAS Application)
+- Solved 500+ LeetCode problems
+- HackIITK Finalist (CyberSecurity)
 - Oracle Foundation Associate certified
 - Summer Analytics 2025 participant by IIT Guwahati
 - Recently shipped Forge Editor, a deployed browser-based AI code editor with OAuth, WebContainers, Monaco, persisted playgrounds, and server-side AI workflows
