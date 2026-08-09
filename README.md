@@ -1,10 +1,10 @@
 <div align="center">
 
-<!-- 01 — Animated Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0A0F08&fontColor=CAFF3C&text=%3E_%20RAJ%20TIWARI&fontSize=38&desc=Backend%20%26%20Systems%20Engineer&descColor=8AFF57&animation=fadeIn" />
+<!-- 01 — Animated Banner (height=220 and descAlignV=70 prevents overlapping) -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0A0F08&fontColor=CAFF3C&text=%3E_%20RAJ%20TIWARI&fontSize=38&desc=Backend%20and%20Systems%20Engineer&descColor=8AFF57&animation=fadeIn&height=220&descAlignV=70" />
 
 <!-- 02 — Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&color=CAFF3C&center=true&vCenter=true&width=820&lines=$%20whoami%20%E2%86%92%20Backend%20%26%20Systems%20Engineer;$%20skills%20%E2%86%92%20TS%20%7C%20Fastify%20%7C%20Valkey%20%7C%20BullMQ%20%7C%20Postgres;$%20contest-rating%20%E2%86%92%201973%20Contest%20Rating;$%20global-rank%20%E2%86%92%2077%20in%20Weekly%20Contest;$%20cat%20open-to.txt%20%E2%86%92%20Backend%20%26%20Full%20Stack%20Roles" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&color=CAFF3C&center=true&vCenter=true&width=820&lines=$%20whoami%20%E2%86%92%20Backend%20and%20Systems%20Engineer;$%20skills%20%E2%86%92%20TS%20%7C%20Fastify%20%7C%20Valkey%20%7C%20BullMQ%20%7C%20Postgres;$%20contest-rating%20%E2%86%92%201973%20Contest%20Rating;$%20global-rank%20%E2%86%92%2077%20in%20Weekly%20Contest;$%20cat%20open-to.txt%20%E2%86%92%20Backend%20and%20Full%20Stack%20Roles" />
 
 <br />
 
@@ -31,7 +31,7 @@
 
 <!-- 05 — Profile Stats -->
 <img src="https://komarev.com/ghpvc/?username=Rajtiwari0202&label=Profile%20Views&color=8aff57&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/Rajtiwari0202?label=Followers&style=for-the-badge&color=CAFF3C" />
+<img src="https://img.shields.io/github/followers/Rajtiwari0202/Rajtiwari0202?label=Followers&style=for-the-badge&color=CAFF3C" />
 <img src="https://img.shields.io/github/stars/Rajtiwari0202?affiliations=OWNER&style=for-the-badge&color=8AFF57" />
 
 </div>
@@ -183,8 +183,7 @@ open_to:
 
 <div align="center">
 
-`"Engineering useful software, one low-latency system at a time."`
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=0A0F08&height=100&section=footer" />
+<!-- Waving footer banner with integrated engineering quote -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0A0F08&section=footer&text=Engineering%20useful%20software%2C%20one%20low-latency%20system%20at%20a%20time.&fontColor=CAFF3C&fontSize=18&height=120" />
 
 </div>
