@@ -9,15 +9,18 @@
 <br />
 
 <!-- 03 — Info Badges Row -->
-<img src="https://img.shields.io/badge/Education-B.Tech%20CSE-0A0F08?style=flat-square&labelColor=0A0F08&color=CAFF3C" />
+<img src="https://img.shields.io/badge/Education-B.Tech%20CSE%20(PSIT)-0A0F08?style=flat-square&labelColor=0A0F08&color=CAFF3C" />
 <img src="https://img.shields.io/badge/Location-Kanpur%2C%20India-0A0F08?style=flat-square&labelColor=0A0F08&color=CAFF3C" />
-<img src="https://img.shields.io/badge/Status-Actively%20Seeking%20Internships-0A0F08?style=flat-square&labelColor=0A0F08&color=8AFF57" />
+<img src="https://img.shields.io/badge/Status-Seeking%20Backend%20Internships-0A0F08?style=flat-square&labelColor=0A0F08&color=8AFF57" />
 
 <br />
 
 <!-- 04 — CTA Buttons -->
+<a href="https://rajtiwari0202.github.io/my_portfolio/">
+  <img src="https://img.shields.io/badge/View%20Portfolio-0A0F08?style=for-the-badge&logo=githubpages&logoColor=CAFF3C" />
+</a>
 <a href="https://medium.com/@rajtiwari16916/architecting-flowforge-ai-how-i-built-an-autonomous-sre-incident-responder-on-zerops-paas-06c2d39ac8a4">
-  <img src="https://img.shields.io/badge/Read%20My%20Medium-0A0F08?style=for-the-badge&logo=medium&logoColor=CAFF3C" />
+  <img src="https://img.shields.io/badge/Read%20Medium-0A0F08?style=for-the-badge&logo=medium&logoColor=CAFF3C" />
 </a>
 <a href="https://www.linkedin.com/in/raj-tiwari-687b67284">
   <img src="https://img.shields.io/badge/LinkedIn-0A0F08?style=for-the-badge&logo=linkedin&logoColor=CAFF3C" />
@@ -59,6 +62,15 @@ OPEN_TO  = Backend / Full Stack / Systems Engineering Internship Roles
   <img src="https://skillicons.dev/icons?i=ts,js,cpp,python,postgres,mongodb,redis,nodejs,react,nextjs,tailwind,git,github,docker&theme=dark" />
 </div>
 
+<br />
+
+<div align="center">
+  <!-- 08 — Specialty Badges -->
+  <img src="https://img.shields.io/badge/Systems-Asynchronous%20Task%20Queues-0A0F08?style=flat-square&labelColor=0A0F08&color=CAFF3C" />
+  <img src="https://img.shields.io/badge/Networking-Private%20WireGuard%20VPC-0A0F08?style=flat-square&labelColor=0A0F08&color=CAFF3C" />
+  <img src="https://img.shields.io/badge/AI-Multi--Agent%20Reasoning-0A0F08?style=flat-square&labelColor=0A0F08&color=CAFF3C" />
+</div>
+
 ---
 
 ## `> cat expertise.csv`
@@ -86,9 +98,12 @@ An autonomous, production-grade SRE incident triaging and diagnostics platform. 
 | **Stack** | Fastify &middot; Valkey &middot; BullMQ &middot; PostgreSQL &middot; React &middot; Gemini AI |
 | **Scale** | Multi-container monorepo deployed on Zerops PaaS inside secure WireGuard VPCs. |
 | **Impact** | Reduces SRE incident investigation MTTR from 45 minutes to under 2 seconds. |
-| **Links** | [Live Sandbox](https://frontend-1e3.ny1.zerops.app) &middot; [GitHub Repository](https://github.com/Rajtiwari0202/flowforge-ai) &middot; [Demo Video](https://youtu.be/8065d43smf8) |
+| **Repo** | [Link](https://github.com/Rajtiwari0202/flowforge-ai) |
 
-*Personally designed the SSE streaming channels, implemented the 15s keep-alive heartbeat loops, built the background worker queue pipelines, and orchestrated the multi-agent logic.*
+*Key Challenges Solved:*
+- **Real-Time Streaming**: Implemented a 15-second keep-alive heartbeat loop on backend Server-Sent Events (SSE) to prevent HTTP/2 proxy timeout drops.
+- **Asynchronous Task Queuing**: Decoupled slow AI analysis calls from the ingestion HTTP pathways using BullMQ and Valkey, avoiding Fastify event-loop blocking.
+- **Security Mesh**: Provisioned internal WireGuard routing between PostgreSQL, Valkey, and API runtimes, keeping database ports hidden from the public internet.
 
 </details>
 
@@ -103,35 +118,59 @@ A fully sandboxed in-browser code editor featuring execution runtimes, terminals
 | **Stack** | Next.js &middot; TypeScript &middot; WebContainers &middot; Monaco Editor &middot; Vercel AI SDK |
 | **Scale** | In-browser virtualized WebContainer system executing Node.js binaries client-side. |
 | **Impact** | Low-friction sandboxing with zero server-side sandbox compute costs. |
-| **Links** | [Live Sandbox](https://aicodeeditor-sand.vercel.app) &middot; [GitHub Repository](https://github.com/Rajtiwari0202/ai-code-editor) |
+| **Repo** | [Link](https://github.com/Rajtiwari0202/ai-code-editor) |
+
+*Key Challenges Solved:*
+- **WebContainers Terminal**: Configured dynamic compilation bounds to boot Node.js runtimes directly inside the browser sandbox.
+- **State Management**: Handled complex client-side workspaces file hierarchies syncing with Vercel authentication databases.
 
 </details>
 
 <details>
-<summary><b>▶ PolicyGuard — Local LLM Policy Gap Analyzer</b></summary>
+<summary><b>▶ PrepWise AI — AI-Powered Interview Preparation Platform</b></summary>
 <br />
 
-A document intelligence tool that reviews company policies, identifies alignment gaps against regulatory datasets, and drafts updates.
+An interview preparation platform generating role-specific mock interviews and custom feedback.
 
 | Parameter | Details |
 | :--- | :--- |
-| **Stack** | Python &middot; Streamlit &middot; Local LLM &middot; Gemma &middot; PyPDF2 |
-| **Scale** | Handles multi-page policy document ingestion and semantic comparison pipelines. |
-| **Impact** | Automates compliance reviews for regulatory standardizations. |
-| **Links** | [GitHub Repository](https://github.com/Rajtiwari0202/PolicyGuard-Local-LLM-Powered-Policy-Gap-Analyzer-) |
+| **Stack** | Next.js &middot; Express.js &middot; Gemini API &middot; Vector Database |
+| **Scale** | Multi-step candidate response analysis pipeline assessing communication and accuracy. |
+| **Impact** | Designed a provider-fallback architecture to maintain uptime during API failures. |
+| **Repo** | [Link](https://github.com/Rajtiwari0202/PrepWise) |
 
 </details>
 
 ---
 
+## `> show /experience`
+
+### `Hackathon Lead Architect` &mdash; Shipped: FlowForge AI
+*Aug 2026*
+- Designed and implemented a decoupled microservices architecture utilizing Fastify APIs, Valkey brokers, and BullMQ background workers.
+- Deployed production workloads to Zerops PaaS, orchestrating private internal routing and dynamic env secret injections.
+- Reduced incident triage loop times down to seconds using Google's Gemini 1.5 Flash agent graph.
+`#Fastify` `#Valkey` `#BullMQ` `#Postgres` `#Zerops`
+
+### `Software Engineering Contributor` &mdash; Shipped: Forge Editor
+*Jul 2025*
+- Built a web-based code editor utilizing Next.js, Monaco Editor, and WebContainers to execute full code sandbox runtimes on client browsers.
+- Implemented Monaco editor autocomplete suggestions and server-side LLM copilot workflows.
+`#Next.js` `#TypeScript` `#WebContainers` `#MonacoEditor`
+
+---
+
 ## `> cat achievements.json`
 
-| Status | Details |
-| :--- | :--- |
-| **Winner** | **HackWithUttarPradesh Hackathon** (Agentic AI SaaS App) |
-| **LeetCode 1973** | Peak Contest Rating (Top 1.5% globally) |
-| **Global Rank 77** | Secured Global Rank 77 in LeetCode Weekly Contest |
-| **Certified** | **Oracle Foundation Associate** |
+| Event | Award / Win | Details |
+| :--- | :--- | :--- |
+| **HackWithUttarPradesh Hackathon** | **Winner (3rd Place)** | 2025 Agentic AI Hackathon for AI-agent based solution |
+| **LeetCode Contests** | **Global Rank 77** | Peak rating 1973 (Top 1.5% globally) |
+| **LeetCode consistency** | **Global Rank 205** | Secured Rank 205 in a LeetCode Weekly Contest |
+| **HackIITK Hackathon** | **Finalist** | Finalist in the 2025 Cybersecurity track with PolicyGuard |
+| **Google Campus Contest** | **2nd Place** | Runner-up in the Campus Debugging Competition |
+| **Oracle University** | **Oracle Associate** | Certified Java Foundation Associate |
+| **DeepLearning.AI / Stanford** | **ML Specialization** | Certified Machine Learning Specialization under Andrew Ng |
 
 ---
 
