@@ -29,14 +29,6 @@
   <img src="https://img.shields.io/badge/Email%20Me-0A0F08?style=for-the-badge&logo=gmail&logoColor=CAFF3C" />
 </a>
 
-<br />
-<br />
-
-<!-- 05 — Profile Stats -->
-<img src="https://komarev.com/ghpvc/?username=Rajtiwari0202&label=Profile%20Views&color=8aff57&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/Rajtiwari0202/Rajtiwari0202?label=Followers&style=for-the-badge&color=CAFF3C" />
-<img src="https://img.shields.io/github/stars/Rajtiwari0202?affiliations=OWNER&style=for-the-badge&color=8AFF57" />
-
 </div>
 
 ---
