@@ -16,6 +16,9 @@
 <br />
 
 <!-- 04 — CTA Buttons -->
+<a href="./resume.pdf">
+  <img src="https://img.shields.io/badge/Download%20Resume-0A0F08?style=for-the-badge&logo=googledrive&logoColor=CAFF3C" />
+</a>
 <a href="https://rajtiwari0202.github.io/my_portfolio/">
   <img src="https://img.shields.io/badge/View%20Portfolio-0A0F08?style=for-the-badge&logo=githubpages&logoColor=CAFF3C" />
 </a>
