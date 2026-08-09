@@ -1,373 +1,190 @@
 <div align="center">
 
-<img src="./assets/profile/banner.svg" width="100%" alt="Raj Tiwari - Software Engineer | Full Stack & AI Systems | Competitive Programmer" />
+<!-- 01 — Animated Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0A0F08&fontColor=CAFF3C&text=%3E_%20RAJ%20TIWARI&fontSize=38&desc=Backend%20%26%20Systems%20Engineer&descColor=8AFF57&animation=fadeIn" />
+
+<!-- 02 — Typing SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&color=CAFF3C&center=true&vCenter=true&width=820&lines=$%20whoami%20%E2%86%92%20Backend%20%26%20Systems%20Engineer;$%20skills%20%E2%86%92%20TS%20%7C%20Fastify%20%7C%20Valkey%20%7C%20BullMQ%20%7C%20Postgres;$%20contest-rating%20%E2%86%92%201973%20Contest%20Rating;$%20global-rank%20%E2%86%92%2077%20in%20Weekly%20Contest;$%20cat%20open-to.txt%20%E2%86%92%20Backend%20%26%20Full%20Stack%20Roles" />
 
 <br />
 
-<b>Full stack engineering, AI application development, backend systems, and competitive programming.</b>
+<!-- 03 — Info Badges Row -->
+<img src="https://img.shields.io/badge/Education-B.Tech%20CSE-0A0F08?style=flat-square&labelColor=0A0F08&color=CAFF3C" />
+<img src="https://img.shields.io/badge/Location-Kanpur%2C%20India-0A0F08?style=flat-square&labelColor=0A0F08&color=CAFF3C" />
+<img src="https://img.shields.io/badge/Status-Actively%20Seeking%20Internships-0A0F08?style=flat-square&labelColor=0A0F08&color=8AFF57" />
 
 <br />
-<br />
 
-<a href="https://github.com/Rajtiwari0202">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<!-- 04 — CTA Buttons -->
+<a href="https://medium.com/@rajtiwari16916/architecting-flowforge-ai-how-i-built-an-autonomous-sre-incident-responder-on-zerops-paas-06c2d39ac8a4">
+  <img src="https://img.shields.io/badge/Read%20My%20Medium-0A0F08?style=for-the-badge&logo=medium&logoColor=CAFF3C" />
 </a>
 <a href="https://www.linkedin.com/in/raj-tiwari-687b67284">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A0F08?style=for-the-badge&logo=linkedin&logoColor=CAFF3C" />
 </a>
 <a href="mailto:rajtiwari16916@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email%20Me-0A0F08?style=for-the-badge&logo=gmail&logoColor=CAFF3C" />
 </a>
 
 <br />
 <br />
 
-<img src="https://komarev.com/ghpvc/?username=Rajtiwari0202&label=Profile%20Views&color=2563eb&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/Rajtiwari0202?label=Followers&style=for-the-badge&color=14b8a6" />
-<img src="https://img.shields.io/github/stars/Rajtiwari0202?affiliations=OWNER&style=for-the-badge&color=f59e0b" />
+<!-- 05 — Profile Stats -->
+<img src="https://komarev.com/ghpvc/?username=Rajtiwari0202&label=Profile%20Views&color=8aff57&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/Rajtiwari0202?label=Followers&style=for-the-badge&color=CAFF3C" />
+<img src="https://img.shields.io/github/stars/Rajtiwari0202?affiliations=OWNER&style=for-the-badge&color=8AFF57" />
 
 </div>
 
 ---
 
-## About
+## `> whoami`
 
-I engineer full stack applications, backend systems, and AI-enabled product workflows. I care about clean implementation, product judgment, and solving hard problems through code.
+I am a Backend and Distributed Systems Engineer focused on building low-latency application architectures, asynchronous event pipelines, and AI-enabled product workflows. I combine strong algorithmic foundations with practical system design.
 
-- Winner of HackWithUttarPradesh Hackathon (Agentic AI SAAS Application)
-- Solved 500+ LeetCode problems
-- HackIITK Finalist (CyberSecurity)
-- Oracle Foundation Associate certified
-- Summer Analytics 2025 participant by IIT Guwahati
-- Recently shipped Forge Editor, a deployed browser-based AI code editor with OAuth, WebContainers, Monaco, persisted playgrounds, and server-side AI workflows
-- B.Tech CSE; building across full stack engineering, AI/ML, data analysis, IoT, and scalable web applications
-
----
-
-## Engineering Focus
-
-<table>
-  <tr>
-    <td width="33%">
-      <h3>Full Stack Systems</h3>
-      <p>Frontend interfaces, backend APIs, authentication flows, dashboards, and database-backed product features.</p>
-    </td>
-    <td width="33%">
-      <h3>AI Applications</h3>
-      <p>Assistant interfaces, local LLM workflows, document intelligence, and AI-powered developer tools.</p>
-    </td>
-    <td width="33%">
-      <h3>Problem Solving</h3>
-      <p>350+ LeetCode problems, DSA practice, competitive programming, and interview-oriented algorithm work.</p>
-    </td>
-  </tr>
-</table>
-
----
-
-## Tech Stack
-
-<div align="center">
-
-### Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-### Backend, Database, Tools
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-111827?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
-
----
-
-## Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <img src="./assets/forge-editor/01-landing.png" width="100%" alt="Forge Editor landing page" />
-      <h3>Forge Editor</h3>
-      <p>A deployed browser IDE with OAuth, Monaco editing, WebContainers terminal execution, live preview, persisted playgrounds, and server-side AI assistance.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/WebContainers-2563EB?style=flat-square" />
-        <img src="https://img.shields.io/badge/MIT-22C55E?style=flat-square" />
-      </p>
-      <a href="https://aicodeeditor-sand.vercel.app">Live Demo</a> &bull;
-      <a href="https://github.com/Rajtiwari0202/ai-code-editor">Repository</a>
-    </td>
-    <td width="50%">
-      <h3>The Great GPTini</h3>
-      <p>A JavaScript AI assistant interface with prompt handling, chat flow, and product-focused interaction design.</p>
-      <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827" />
-        <img src="https://img.shields.io/badge/AI-14B8A6?style=flat-square" />
-        <img src="https://img.shields.io/badge/MIT-22C55E?style=flat-square" />
-      </p>
-      <a href="https://github.com/Rajtiwari0202/The-Great-GPTini">Repository</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>AgriConnect Platform</h3>
-      <p>An agriculture platform for connecting farmers, landowners, and digital services through a modern web interface.</p>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/AgriTech-16A34A?style=flat-square" />
-        <img src="https://img.shields.io/badge/Web%20App-F59E0B?style=flat-square" />
-      </p>
-      <a href="https://github.com/Rajtiwari0202/AgriConnect-Platform">Repository</a>
-    </td>
-    <td width="50%">
-      <h3>ResQ-Her</h3>
-      <p>A women safety app with emergency assistance flows, safety resources, and an accessible interface.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Safety%20Tech-E11D48?style=flat-square" />
-        <img src="https://img.shields.io/badge/MIT-22C55E?style=flat-square" />
-      </p>
-      <a href="https://github.com/Rajtiwari0202/ResQ-Her">Repository</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>PyShop Ecommerce</h3>
-      <p>A Django e-commerce platform with product browsing, cart management, checkout flow, authentication, and deployment.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-        <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/Ecommerce-2563EB?style=flat-square" />
-      </p>
-      <a href="https://github.com/Rajtiwari0202/PyShop-Ecommerce">Repository</a> &bull;
-      <a href="https://pyshop-ecommerce-r9kl.onrender.com/">Live Demo</a>
-    </td>
-    <td width="50%">
-      <h3>Vestora Trading Platform</h3>
-      <p>A trading dashboard project with market views, portfolio sections, watchlists, and data-focused UI components.</p>
-      <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827" />
-        <img src="https://img.shields.io/badge/FinTech-0F172A?style=flat-square" />
-        <img src="https://img.shields.io/badge/Dashboard-38BDF8?style=flat-square" />
-      </p>
-      <a href="https://github.com/Rajtiwari0202/vestora-trading-platform">Repository</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>Blue Carbon Credit Registry System</h3>
-      <p>A sustainability-focused registry system for tracking blue carbon credits and environmental impact data.</p>
-      <p>
-        <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/Climate%20Tech-0EA5E9?style=flat-square" />
-        <img src="https://img.shields.io/badge/Sustainability-22C55E?style=flat-square" />
-      </p>
-      <a href="https://github.com/Rajtiwari0202/Blue-Carbon-Credit-Registry-System">Repository</a>
-    </td>
-    <td width="50%">
-      <h3>PolicyGuard</h3>
-      <p>A local LLM-powered policy gap analyzer for reviewing documents, tracking policy gaps, and generating improved policy drafts.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Local%20LLM-8B5CF6?style=flat-square" />
-        <img src="https://img.shields.io/badge/Policy%20Analysis-111827?style=flat-square" />
-      </p>
-      <a href="https://github.com/Rajtiwari0202/PolicyGuard-Local-LLM-Powered-Policy-Gap-Analyzer-">Repository</a>
-    </td>
-  </tr>
-</table>
-
----
-
-## Project Screenshots
-
-<table>
-  <tr>
-    <td width="33%">
-      <img src="./assets/forge-editor/01-landing.png" width="100%" alt="Forge Editor landing page" />
-      <p align="center"><b>Forge Editor</b></p>
-    </td>
-    <td width="33%">
-      <img src="./assets/pyshop/01-storefront.png" width="100%" alt="PyShop storefront" />
-      <p align="center"><b>PyShop Ecommerce</b></p>
-    </td>
-    <td width="33%">
-      <img src="./assets/resq-her/01-dashboard.png" width="100%" alt="ResQ-Her dashboard" />
-      <p align="center"><b>ResQ-Her</b></p>
-    </td>
-  </tr>
-</table>
-
-<details>
-  <summary><b>Forge Editor Screens</b></summary>
-  <br />
-  <table>
-    <tr>
-      <td width="50%"><img src="./assets/forge-editor/01-landing.png" width="100%" alt="Forge Editor landing page" /></td>
-      <td width="50%"><img src="./assets/forge-editor/02-sign-in.png" width="100%" alt="Forge Editor sign-in page" /></td>
-    </tr>
-    <tr>
-      <td colspan="2"><img src="./assets/forge-editor/03-workspace.svg" width="100%" alt="Forge Editor workspace preview" /></td>
-    </tr>
-  </table>
-</details>
-
-<details>
-  <summary><b>PyShop Ecommerce Screens</b></summary>
-  <br />
-  <table>
-    <tr>
-      <td width="50%"><img src="./assets/pyshop/01-storefront.png" width="100%" alt="PyShop storefront" /></td>
-      <td width="50%"><img src="./assets/pyshop/02-product-detail.png" width="100%" alt="PyShop product detail" /></td>
-    </tr>
-    <tr>
-      <td width="50%"><img src="./assets/pyshop/03-login.png" width="100%" alt="PyShop login" /></td>
-      <td width="50%"><img src="./assets/pyshop/04-cart.png" width="100%" alt="PyShop cart" /></td>
-    </tr>
-    <tr>
-      <td width="50%"><img src="./assets/pyshop/05-checkout.png" width="100%" alt="PyShop checkout" /></td>
-      <td width="50%"><img src="./assets/pyshop/06-orders.png" width="100%" alt="PyShop orders" /></td>
-    </tr>
-  </table>
-</details>
-
-<details>
-  <summary><b>ResQ-Her Screens</b></summary>
-  <br />
-  <table>
-    <tr>
-      <td width="50%"><img src="./assets/resq-her/01-dashboard.png" width="100%" alt="ResQ-Her dashboard" /></td>
-      <td width="50%"><img src="./assets/resq-her/02-sos.png" width="100%" alt="ResQ-Her SOS screen" /></td>
-    </tr>
-    <tr>
-      <td width="50%"><img src="./assets/resq-her/03-law-bot.png" width="100%" alt="ResQ-Her law bot" /></td>
-      <td width="50%"><img src="./assets/resq-her/04-therapy-bot.png" width="100%" alt="ResQ-Her therapy bot" /></td>
-    </tr>
-  </table>
-</details>
-
-<details>
-  <summary><b>PolicyGuard Screens</b></summary>
-  <br />
-  <table>
-    <tr>
-      <td width="50%"><img src="./assets/policyguard/01-dashboard.png" width="100%" alt="PolicyGuard dashboard" /></td>
-      <td width="50%"><img src="./assets/policyguard/02-gap-register.png" width="100%" alt="PolicyGuard gap register" /></td>
-    </tr>
-    <tr>
-      <td width="50%"><img src="./assets/policyguard/03-exports.png" width="100%" alt="PolicyGuard exports" /></td>
-      <td width="50%"><img src="./assets/policyguard/04-improved-policy.png" width="100%" alt="PolicyGuard improved policy" /></td>
-    </tr>
-  </table>
-</details>
-
----
-
-## Highlights
-
-<table>
-  <tr>
-    <td width="25%" align="center"><b>350+</b><br />LeetCode Problems</td>
-    <td width="25%" align="center"><b>Winner</b><br />HackWithUttarPradesh</td>
-    <td width="25%" align="center"><b>Oracle</b><br />Foundation Associate</td>
-    <td width="25%" align="center"><b>IIT Guwahati</b><br />Summer Analytics 2025</td>
-  </tr>
-</table>
-
----
-
-## GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rajtiwari0202&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajtiwari0202&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-<br />
-<br />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rajtiwari0202&theme=tokyonight&hide_border=true" />
-
-<br />
-<br />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rajtiwari0202&theme=tokyonight" />
-
-</div>
-
----
-
-## Competitive Programming
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/LeetCode-350%2B%20Problems-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white" />
-<img src="https://img.shields.io/badge/DSA-Algorithms%20%26%20Problem%20Solving-2563EB?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Focus-Interview%20Prep%20%7C%20CP-14B8A6?style=for-the-badge" />
-
-</div>
-
-```txt
-Core focus:
-- Data Structures and Algorithms
-- Competitive Programming
-- Interview Preparation
+```bash
+$ cat .profile
+ROLE     = Backend & Systems Engineer
+DOMAIN   = High-Throughput APIs | Task Queues | VPC Mesh Networking | AI Agents
+STACK    = Fastify | Valkey | BullMQ | PostgreSQL | React | Next.js | TypeScript
+LEETCODE = 1973 peak contest rating (Top 1.5% globally) | Global Rank 77
+OPEN_TO  = Backend / Full Stack / Systems Engineering Internship Roles
 ```
 
 ---
 
-## Achievements
+## `> ls /skills`
 
-<table>
-  <tr>
-    <td>Winner</td>
-    <td><b>HackWithUttarPradesh Hackathon</b></td>
-  </tr>
-  <tr>
-    <td>Certified</td>
-    <td><b>Oracle Foundation Associate</b></td>
-  </tr>
-  <tr>
-    <td>Participant</td>
-    <td><b>Summer Analytics 2025 by IIT Guwahati</b></td>
-  </tr>
-  <tr>
-    <td>DSA</td>
-    <td><b>450+ LeetCode problems solved</b></td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,cpp,python,postgres,mongodb,redis,nodejs,react,nextjs,tailwind,git,github,docker&theme=dark" />
+</div>
 
 ---
 
-## Contribution Graph
+## `> cat expertise.csv`
+
+| Domain | Proficiency | Core Technologies |
+| :--- | :--- | :--- |
+| **Backend Orchestration** | Advanced | Fastify, Node.js, REST APIs, JSON-Schema optimization |
+| **Queues & Pub/Sub** | Intermediate | BullMQ task queues, Valkey/Redis caching, async log ingestion |
+| **Cloud Infrastructure** | Intermediate | Zerops PaaS, WireGuard VPC networking, Dynamic Environments |
+| **Database Modeling** | Advanced | PostgreSQL schema design, Prisma ORM, MongoDB collections |
+| **AI Integrations** | Intermediate | Collaborative SRE multi-agent graphs, Gemini APIs, local LLMs |
+
+---
+
+## `> show /projects`
+
+<details open>
+<summary><b>▶ FlowForge AI — Autonomous SRE Incident Responder</b></summary>
+<br />
+
+An autonomous, production-grade SRE incident triaging and diagnostics platform. Detects error telemetry, runs a 4-agent collaborative queue, and generates codebase patches.
+
+| Parameter | Details |
+| :--- | :--- |
+| **Stack** | Fastify &middot; Valkey &middot; BullMQ &middot; PostgreSQL &middot; React &middot; Gemini AI |
+| **Scale** | Multi-container monorepo deployed on Zerops PaaS inside secure WireGuard VPCs. |
+| **Impact** | Reduces SRE incident investigation MTTR from 45 minutes to under 2 seconds. |
+| **Links** | [Live Sandbox](https://frontend-1e3.ny1.zerops.app) &middot; [GitHub Repository](https://github.com/Rajtiwari0202/flowforge-ai) &middot; [Demo Video](https://youtu.be/8065d43smf8) |
+
+*Personally designed the SSE streaming channels, implemented the 15s keep-alive heartbeat loops, built the background worker queue pipelines, and orchestrated the multi-agent logic.*
+
+</details>
+
+<details>
+<summary><b>▶ Forge Editor — Browser-Based AI IDE Sandbox</b></summary>
+<br />
+
+A fully sandboxed in-browser code editor featuring execution runtimes, terminals, and AI sidecar assistant workflows.
+
+| Parameter | Details |
+| :--- | :--- |
+| **Stack** | Next.js &middot; TypeScript &middot; WebContainers &middot; Monaco Editor &middot; Vercel AI SDK |
+| **Scale** | In-browser virtualized WebContainer system executing Node.js binaries client-side. |
+| **Impact** | Low-friction sandboxing with zero server-side sandbox compute costs. |
+| **Links** | [Live Sandbox](https://aicodeeditor-sand.vercel.app) &middot; [GitHub Repository](https://github.com/Rajtiwari0202/ai-code-editor) |
+
+</details>
+
+<details>
+<summary><b>▶ PolicyGuard — Local LLM Policy Gap Analyzer</b></summary>
+<br />
+
+A document intelligence tool that reviews company policies, identifies alignment gaps against regulatory datasets, and drafts updates.
+
+| Parameter | Details |
+| :--- | :--- |
+| **Stack** | Python &middot; Streamlit &middot; Local LLM &middot; Gemma &middot; PyPDF2 |
+| **Scale** | Handles multi-page policy document ingestion and semantic comparison pipelines. |
+| **Impact** | Automates compliance reviews for regulatory standardizations. |
+| **Links** | [GitHub Repository](https://github.com/Rajtiwari0202/PolicyGuard-Local-LLM-Powered-Policy-Gap-Analyzer-) |
+
+</details>
+
+---
+
+## `> cat achievements.json`
+
+| Status | Details |
+| :--- | :--- |
+| **Winner** | **HackWithUttarPradesh Hackathon** (Agentic AI SaaS App) |
+| **LeetCode 1973** | Peak Contest Rating (Top 1.5% globally) |
+| **Global Rank 77** | Secured Global Rank 77 in LeetCode Weekly Contest |
+| **Certified** | **Oracle Foundation Associate** |
+
+---
+
+## `> show /github-analytics`
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/Rajtiwari0202/Rajtiwari0202/output/github-contribution-grid-snake.svg)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Rajtiwari0202&show_icons=true&hide_border=true&title_color=CAFF3C&icon_color=8AFF57&text_color=E8F5E1&bg_color=0A0F08&count_private=true" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Rajtiwari0202&hide_border=true&background=0A0F08&stroke=CAFF3C&ring=8AFF57&fire=CAFF3C&currStreakLabel=CAFF3C" />
+
+<br />
+<br />
+
+<!-- 10 — Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=Rajtiwari0202&theme=matrix&no-frame=true&column=7" />
+
+<br />
+<br />
+
+<!-- 11 — Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajtiwari0202&bg_color=0A0F08&color=CAFF3C&line=8AFF57&point=E8F5E1&area=true&hide_border=true" width="100%" />
+
+<br />
+<br />
+
+<!-- 12 — Contribution Summary Cards -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rajtiwari0202&theme=2077" width="100%" />
 
 </div>
 
 ---
 
+## `> cat current-focus.yaml`
+
+```yaml
+learning:
+  - Vector database embeddings index strategies (pgvector)
+  - OpenTelemetry telemetry log collection configurations
+building:
+  - FlowForge AI production deployment optimizations # Triage & autoscale
+open_to:
+  - Backend Engineering Internships
+  - Systems & Cloud Infrastructure Internships
+```
+
+---
+
+## `> cat footer.txt`
+
 <div align="center">
 
-<img src="./assets/profile/footer.svg" width="100%" alt="Engineering useful software, one system at a time." />
+`"Engineering useful software, one low-latency system at a time."`
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=0A0F08&height=100&section=footer" />
 
 </div>
