@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0A0F08&fontColor=CAFF3C&text=%3E_%20RAJ%20TIWARI&fontSize=38&desc=Backend%20and%20Systems%20Engineer&descColor=8AFF57&animation=fadeIn&height=220&descAlignV=70" />
 
 <!-- 02 — Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&color=CAFF3C&center=true&vCenter=true&width=820&lines=$%20whoami%20%E2%86%92%20Backend%20and%20Systems%20Engineer;$%20skills%20%E2%86%92%20TS%20%7C%20Fastify%20%7C%20Valkey%20%7C%20BullMQ%20%7C%20Postgres;$%20contest-rating%20%E2%86%92%201973%20Contest%20Rating;$%20global-rank%20%E2%86%92%2077%20in%20Weekly%20Contest;$%20cat%20open-to.txt%20%E2%86%92%20Backend%20and%20Full%20Stack%20Roles" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&color=CAFF3C&center=true&vCenter=true&width=820&lines=$%20whoami%20%E2%86%92%20Backend%20and%20Systems%20Engineer;$%20skills%20%E2%86%92%20TS%20%7C%20Fastify%20%7C%20Valkey%20%7C%20BullMQ%20%7C%20Postgres;$%20zerops-winner%20%E2%86%92%20Top%20Social%20Track%20Winner%20(WeMakeDevs);$%20contest-rating%20%E2%86%92%201973%20Contest%20Rating;$%20cat%20open-to.txt%20%E2%86%92%20Backend%20and%20Full%20Stack%20Roles" />
 
 <br />
 
@@ -43,6 +43,7 @@ I am a Backend and Distributed Systems Engineer focused on building low-latency 
 ```bash
 $ cat .profile
 ROLE     = Backend & Systems Engineer
+AWARDS   = Winner (Top Social Track) @ The Zerops Challenge | Winner @ HackWithUttarPradesh
 DOMAIN   = High-Throughput APIs | Task Queues | VPC Mesh Networking | AI Agents
 STACK    = Fastify | Valkey | BullMQ | PostgreSQL | React | Next.js | TypeScript
 LEETCODE = 1973 peak contest rating (Top 1.5% globally) | Global Rank 77
@@ -83,10 +84,10 @@ OPEN_TO  = Backend / Full Stack / Systems Engineering Internship Roles
 ## `> show /projects`
 
 <details open>
-<summary><b>▶ FlowForge AI — Autonomous SRE Incident Responder</b></summary>
+<summary><b>▶ FlowForge AI — Autonomous SRE Incident Responder (Zerops Challenge Winner)</b></summary>
 <br />
 
-An autonomous, production-grade SRE incident triaging and diagnostics platform. Detects error telemetry, runs a 4-agent collaborative queue, and generates codebase patches.
+An autonomous, production-grade SRE incident triaging and diagnostics platform. Detects error telemetry, runs a 4-agent collaborative queue, and generates codebase patches. Won **Top Social Track** at **The Zerops Challenge by WeMakeDevs**.
 
 | Parameter | Details |
 | :--- | :--- |
@@ -140,8 +141,9 @@ An interview preparation platform generating role-specific mock interviews and c
 
 ## `> show /experience`
 
-### `Hackathon Lead Architect` &mdash; Shipped: FlowForge AI
+### `Hackathon Winner & Lead Architect` &mdash; Shipped: FlowForge AI
 *Aug 2026*
+- Won **Top Social Track** in **The Zerops Challenge** (out of 250+ project submissions).
 - Designed and implemented a decoupled microservices architecture utilizing Fastify APIs, Valkey brokers, and BullMQ background workers.
 - Deployed production workloads to Zerops PaaS, orchestrating private internal routing and dynamic env secret injections.
 - Reduced incident triage loop times down to seconds using Google's Gemini 1.5 Flash agent graph.
@@ -159,6 +161,7 @@ An interview preparation platform generating role-specific mock interviews and c
 
 | Event | Award / Win | Details |
 | :--- | :--- | :--- |
+| **The Zerops Challenge (WeMakeDevs)** | **Winner (Top Social Track)** | Won Logitech MX Master 3 for FlowForge AI architecture breakdown |
 | **HackWithUttarPradesh Hackathon** | **Winner (3rd Place)** | 2025 Agentic AI Hackathon for AI-agent based solution |
 | **LeetCode Contests** | **Global Rank 77** | Peak rating 1973 (Top 1.5% globally) |
 | **LeetCode consistency** | **Global Rank 205** | Secured Rank 205 in a LeetCode Weekly Contest |
