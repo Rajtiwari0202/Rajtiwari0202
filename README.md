@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- 01 — Animated Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0A0F08&fontColor=CAFF3C&text=%3E_%20RAJ%20TIWARI&fontSize=38&desc=Backend%20%26%20Distributed%20Systems%20Engineer&descColor=8AFF57&animation=fadeIn&height=220&descAlignV=70" alt="Raj Tiwari Banner" />
+<!-- 01 — Native Vector Banner (100% Reliable, Zero Third-Party Downtime) -->
+<img width="100%" src="./banner.svg" alt="Raj Tiwari - Backend & Distributed Systems Engineer" />
 
 <!-- 02 — Typing SVG -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&color=CAFF3C&center=true&vCenter=true&width=840&lines=$%20whoami%20%E2%86%92%20Backend%20%26%20Distributed%20Systems%20Engineer;$%20competitive-coding%20%E2%86%92%20LeetCode%20Knight%20(1%2C979%20Rating%20%7C%20819%2B%20Solved);$%20flagship-stack%20%E2%86%92%20Node.js%20%7C%20Fastify%20%7C%20Redis%20%7C%20MongoDB%20%7C%20Postgres%20%7C%20Docker;$%20hackathons%20%E2%86%92%201st%20Prize%20Zerops%20%7C%203rd%20HackWithUP%20%7C%20Finalist%20HackIITK;$%20open-to%20%E2%86%92%20Backend%20%26%20Software%20Engineering%20Internships" alt="Typing SVG" />
@@ -155,7 +155,7 @@ I am actively interviewing for **Software Engineering (SWE) & Backend Internship
 <br />
 <br />
 
-<!-- Sleek terminal footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0A0F08&section=footer&text=Engineering%20scalable%2C%20resilient%20systems%20one%20service%20at%20a%20time.&fontColor=CAFF3C&fontSize=16&height=110" alt="Footer Banner" />
+<!-- Sleek terminal footer (100% Reliable Native Vector) -->
+<img width="100%" src="./footer.svg" alt="Footer Banner" />
 
 </div>
