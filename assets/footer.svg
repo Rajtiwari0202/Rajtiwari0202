@@ -1,0 +1,21 @@
+<svg width="100%" height="80" viewBox="0 0 900 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="footerBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0A0F08" />
+      <stop offset="100%" stop-color="#050704" />
+    </linearGradient>
+    <linearGradient id="footerLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#CAFF3C" stop-opacity="0.2" />
+      <stop offset="50%" stop-color="#8AFF57" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#CAFF3C" stop-opacity="0.2" />
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="80" rx="10" fill="url(#footerBg)" />
+  <rect x="1" y="1" width="898" height="78" rx="9" stroke="#CAFF3C" stroke-opacity="0.2" stroke-width="1" />
+  <path d="M 10 1 L 890 1" stroke="url(#footerLine)" stroke-width="2" />
+
+  <text x="450" y="46" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Fira Code', monospace" font-size="15" font-weight="600" fill="#CAFF3C" text-anchor="middle" letter-spacing="0.5">
+    Engineering scalable, resilient systems — one service at a time.
+  </text>
+</svg>

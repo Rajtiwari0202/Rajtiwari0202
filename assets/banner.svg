@@ -1,0 +1,99 @@
+<svg width="100%" height="220" viewBox="0 0 900 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Background Gradients -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0A0F08" />
+      <stop offset="50%" stop-color="#0C150B" />
+      <stop offset="100%" stop-color="#070A06" />
+    </linearGradient>
+
+    <!-- Neon Green Linear Accent -->
+    <linearGradient id="neonGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#CAFF3C" />
+      <stop offset="50%" stop-color="#8AFF57" />
+      <stop offset="100%" stop-color="#00FFA3" />
+    </linearGradient>
+
+    <!-- Subtle Grid Pattern -->
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#CAFF3C" stroke-width="0.75" stroke-opacity="0.07" />
+    </pattern>
+
+    <!-- Glow Filter -->
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+
+    <filter id="subtleGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <!-- Background Base -->
+  <rect width="900" height="220" rx="14" fill="url(#bgGrad)" />
+  <rect width="900" height="220" rx="14" fill="url(#grid)" />
+
+  <!-- Outer Border with Neon Accent -->
+  <rect x="1" y="1" width="898" height="218" rx="13" stroke="#CAFF3C" stroke-opacity="0.25" stroke-width="1.5" />
+
+  <!-- Top Accent Bar -->
+  <path d="M 14 1 L 886 1" stroke="url(#neonGrad)" stroke-width="2.5" stroke-linecap="round" />
+
+  <!-- Decorative Corner Accents -->
+  <path d="M 18 30 L 18 18 L 30 18" stroke="#CAFF3C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M 882 30 L 882 18 L 870 18" stroke="#CAFF3C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M 18 190 L 18 202 L 30 202" stroke="#CAFF3C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+  <path d="M 882 190 L 882 202 L 870 202" stroke="#CAFF3C" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+
+  <!-- Terminal Header Dots -->
+  <circle cx="50" cy="38" r="5" fill="#FF5F56" />
+  <circle cx="68" cy="38" r="5" fill="#FFBD2E" />
+  <circle cx="86" cy="38" r="5" fill="#27C93F" />
+  <text x="110" y="42" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Fira Code', monospace" font-size="12" fill="#CAFF3C" fill-opacity="0.5" letter-spacing="1.5">bash — 900x220</text>
+
+  <!-- Glowing Watermark Terminal Prompt in Background -->
+  <text x="740" y="180" font-family="'Fira Code', Consolas, Monaco, monospace" font-weight="900" font-size="140" fill="#CAFF3C" fill-opacity="0.03" text-anchor="middle">&gt;_</text>
+
+  <!-- Main Title: >_ RAJ TIWARI -->
+  <g filter="url(#subtleGlow)">
+    <text x="50" y="105" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Fira Code', monospace" font-size="42" font-weight="900" fill="#CAFF3C" letter-spacing="-0.5">
+      &gt;_ RAJ TIWARI
+    </text>
+  </g>
+
+  <!-- Subtitle: Backend & Distributed Systems Engineer -->
+  <text x="52" y="138" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="19" font-weight="600" fill="#8AFF57" letter-spacing="0.5">
+    Backend &amp; Distributed Systems Engineer
+  </text>
+
+  <!-- Tagline Badges / Quick Highlights -->
+  <!-- Pill 1: LeetCode Knight -->
+  <g transform="translate(52, 160)">
+    <rect width="180" height="28" rx="6" fill="#0A0F08" stroke="#FFA116" stroke-opacity="0.6" stroke-width="1.2" />
+    <circle cx="16" cy="14" r="4" fill="#FFA116" />
+    <text x="28" y="18" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', monospace" font-size="12" font-weight="700" fill="#FFA116">LeetCode Knight (1,979)</text>
+  </g>
+
+  <!-- Pill 2: Zerops Winner -->
+  <g transform="translate(244, 160)">
+    <rect width="205" height="28" rx="6" fill="#0A0F08" stroke="#CAFF3C" stroke-opacity="0.6" stroke-width="1.2" />
+    <circle cx="16" cy="14" r="4" fill="#CAFF3C" />
+    <text x="28" y="18" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', monospace" font-size="12" font-weight="700" fill="#CAFF3C">1st Prize, Zerops Challenge</text>
+  </g>
+
+  <!-- Pill 3: Distributed Systems -->
+  <g transform="translate(461, 160)">
+    <rect width="195" height="28" rx="6" fill="#0A0F08" stroke="#8AFF57" stroke-opacity="0.5" stroke-width="1.2" />
+    <circle cx="16" cy="14" r="4" fill="#8AFF57" />
+    <text x="28" y="18" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', monospace" font-size="12" font-weight="600" fill="#8AFF57">Event-Driven Architecture</text>
+  </g>
+
+  <!-- Pill 4: HackWithUP -->
+  <g transform="translate(668, 160)">
+    <rect width="180" height="28" rx="6" fill="#0A0F08" stroke="#00FFA3" stroke-opacity="0.5" stroke-width="1.2" />
+    <circle cx="16" cy="14" r="4" fill="#00FFA3" />
+    <text x="28" y="18" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', monospace" font-size="12" font-weight="600" fill="#00FFA3">HackWithUP 3rd Place</text>
+  </g>
+</svg>
