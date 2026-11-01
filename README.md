@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 01 — Native Vector Banner (100% Reliable, Zero Third-Party Downtime) -->
-<img width="100%" src="./banner.svg" alt="Raj Tiwari - Backend & Distributed Systems Engineer" />
+<img width="100%" src="./assets/banner.svg" alt="Raj Tiwari - Backend & Distributed Systems Engineer" />
 
 <!-- 02 — Typing SVG -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&color=CAFF3C&center=true&vCenter=true&width=840&lines=$%20whoami%20%E2%86%92%20Backend%20%26%20Distributed%20Systems%20Engineer;$%20competitive-coding%20%E2%86%92%20LeetCode%20Knight%20(1%2C979%20Rating%20%7C%20819%2B%20Solved);$%20flagship-stack%20%E2%86%92%20Node.js%20%7C%20Fastify%20%7C%20Redis%20%7C%20MongoDB%20%7C%20Postgres%20%7C%20Docker;$%20hackathons%20%E2%86%92%201st%20Prize%20Zerops%20%7C%203rd%20HackWithUP%20%7C%20Finalist%20HackIITK;$%20open-to%20%E2%86%92%20Backend%20%26%20Software%20Engineering%20Internships" alt="Typing SVG" />
@@ -17,7 +17,7 @@
 <br />
 <br />
 
-<!-- 04 — CTA Buttons with Updated Official Links -->
+<!-- 04 — CTA Buttons -->
 <a href="https://rajtiwari-portfolio.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-0A0F08?style=for-the-badge&logo=vercel&logoColor=CAFF3C" alt="Portfolio" />
 </a>
@@ -41,17 +41,17 @@
 
 ---
 
-## ⚡ Executive Summary
+## Executive Summary
 
-I am a **Backend & Distributed Systems Engineer** and **LeetCode Knight (1,979 rating, top 3% globally)** with proven expertise in building high-concurrency event-driven architectures, distributed geospatial dispatch engines, and multi-agent AI pipelines. 
+I am a **Backend & Distributed Systems Engineer** and **LeetCode Knight (1,979 rating, Top 2.98% globally)** with focus on high-concurrency event-driven architectures, geospatial dispatch engines, and multi-agent AI systems.
 
-- 🏆 **1st Prize Winner, The Zerops Challenge** — Architected *FlowForge AI*, an autonomous multi-agent SRE incident responder deployed inside private WireGuard VPC meshes on Zerops PaaS.
-- ⚔️ **Competitive Problem Solver** — **819+ algorithmic problems solved** (116 Hard, 405 Medium), Rank 205 in LeetCode Weekly Contest, and 6-Star Problem Solving on HackerRank.
-- 🎓 **Undergraduate** — 3rd Year B.Tech Computer Science & Engineering at PSIT Kanpur (CGPA: 8.1/10).
+- **1st Prize Winner, The Zerops Challenge:** Architected *FlowForge AI*, an autonomous multi-agent SRE incident responder deployed inside private WireGuard VPC meshes on Zerops PaaS.
+- **Competitive Problem Solving:** **819+ problems solved** (116 Hard, 405 Medium), Rank 205 in LeetCode Weekly Contest, and 6-Star Problem Solving on HackerRank.
+- **Education:** 3rd Year B.Tech Computer Science & Engineering at Pranveer Singh Institute of Technology (PSIT), Kanpur (CGPA: 8.1 / 10).
 
 ---
 
-## 🛠️ Technical Stack & Tooling
+## Technical Stack & Tooling
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,ts,js,postgres,mongodb,redis,nodejs,fastapi,react,nextjs,tailwind,docker,git,github&theme=dark" alt="Skills Matrix" />
@@ -70,7 +70,7 @@ I am a **Backend & Distributed Systems Engineer** and **LeetCode Knight (1,979 r
 
 ---
 
-## 🚀 Featured Engineering Projects
+## Featured Engineering Projects
 
 ### 1. [RideFlow — Real-Time Ride-Hailing & Distributed Dispatch Platform](https://github.com/Rajtiwari0202/ride_sharing_platform)
 *Node.js &middot; Express 5.x &middot; Socket.IO &middot; MongoDB (2dsphere) &middot; React 18 &middot; Leaflet &middot; In-Memory Haversine Engine*
@@ -86,7 +86,7 @@ I am a **Backend & Distributed Systems Engineer** and **LeetCode Knight (1,979 r
 - **Decoupled Asynchronous Telemetry Ingestion:** Engineered high-throughput log intake pipelines decoupling synchronous HTTP ingestion from heavy LLM reasoning loops using Valkey message brokers and BullMQ workers.
 - **Resilient Real-Time Telemetry:** Maintained a 15-second keep-alive heartbeat loop over backend Server-Sent Events (SSE) to prevent reverse proxy and HTTP/2 idle timeout disconnections.
 - **Zero-Trust Network Mesh:** Deployed multi-container workloads inside private WireGuard VPCs on Zerops PaaS, isolating PostgreSQL and Valkey brokers completely from the public internet.
-- 📖 Read the engineering deep-dive on [Medium](https://medium.com/@rajtiwari16916/architecting-flowforge-ai-how-i-built-an-autonomous-sre-incident-responder-on-zerops-paas-06c2d39ac8a4).
+- Technical Architecture Deep-Dive: [Read on Medium](https://medium.com/@rajtiwari16916/architecting-flowforge-ai-how-i-built-an-autonomous-sre-incident-responder-on-zerops-paas-06c2d39ac8a4).
 
 ---
 
@@ -105,7 +105,7 @@ I am a **Backend & Distributed Systems Engineer** and **LeetCode Knight (1,979 r
 
 ---
 
-## 🏆 Honors & Key Achievements
+## Honors & Key Achievements
 
 | Recognition | Organization / Contest | Highlight |
 | :--- | :--- | :--- |
@@ -118,7 +118,7 @@ I am a **Backend & Distributed Systems Engineer** and **LeetCode Knight (1,979 r
 
 ---
 
-## 📜 Verified Industry Certifications
+## Verified Industry Certifications
 
 | Certification | Issuing Organization | Verification |
 | :--- | :--- | :---: |
@@ -133,7 +133,7 @@ I am a **Backend & Distributed Systems Engineer** and **LeetCode Knight (1,979 r
 
 ---
 
-## 🤝 Let's Connect
+## Connect & Contact
 
 I am actively interviewing for **Software Engineering (SWE) & Backend Internships**.
 
@@ -156,6 +156,6 @@ I am actively interviewing for **Software Engineering (SWE) & Backend Internship
 <br />
 
 <!-- Sleek terminal footer (100% Reliable Native Vector) -->
-<img width="100%" src="./footer.svg" alt="Footer Banner" />
+<img width="100%" src="./assets/footer.svg" alt="Footer Banner" />
 
 </div>
